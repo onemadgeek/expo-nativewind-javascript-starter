@@ -1,4 +1,4 @@
-import { Content }from './components/Content';
+import { Content }from 'components/Content';
 import { StatusBar } from 'expo-status-bar';
 
 import './global.css';

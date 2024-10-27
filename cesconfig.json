@@ -3,6 +3,13 @@
   "projectName": "expo-nativewind-javascript-starter",
   "packages": [
     {
+      "name": "expo-router",
+      "type": "navigation",
+      "options": {
+        "type": "stack"
+      }
+    },
+    {
       "name": "nativewind",
       "type": "styling"
     }

@@ -6,7 +6,9 @@ module.exports = function (api) {
       {
         root: ['.'],
         alias: {
-          components: './components',
+          '@app/components': './components',
+          '@app/lib': './lib',
+          '@app/theme': './theme',
         },
       },
     ],
