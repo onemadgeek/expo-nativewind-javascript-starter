@@ -4,7 +4,6 @@ export const Content = () => {
     <View className={styles.container}>
       <Text className={styles.title}>Hello World</Text>
       <View className={styles.separator} />
-      {children}
     </View>
   );
 };
